@@ -442,7 +442,7 @@ section {
 
     .both-btn {
         align-items: center;
-        /* justify-content: center; */
+        justify-content: center;
 
     }
 
@@ -461,7 +461,7 @@ section {
     }
 
     .section-heading {
-        margin-top: 20px;
+        margin-top: 50px;
     }
 
     .heading-2 {
@@ -485,6 +485,7 @@ section {
 
     .both-btn {
         margin-bottom: 40px;
+        justify-content: left;
     }
 
 }
