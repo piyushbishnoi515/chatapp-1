@@ -397,6 +397,7 @@ section {
     letter-spacing: 0em;
     text-align: left;
     color: #6B7278;
+    width: fit-content;
 
 }
 
@@ -441,7 +442,7 @@ section {
 
     .both-btn {
         align-items: center;
-        justify-content: center;
+        /* justify-content: center; */
 
     }
 
@@ -455,7 +456,6 @@ section {
 
     .fast-text {
         font-size: 18px;
-        justify-content: center;
         align-items: center;
         display: flex;
     }
