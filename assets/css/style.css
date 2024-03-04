@@ -388,6 +388,9 @@ section {
     color: #2B353E;
     margin-bottom: 20px;
 }
+.mt-10{
+    margin-top: 10px;
+}
 
 .links {
     font-family: Roboto;
