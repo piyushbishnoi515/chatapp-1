@@ -550,6 +550,18 @@ section {
         padding-right: 12px;
     }
 
+    .col-lg-2 {
+        width: 16.66%;
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .col-lg-4 {
+        width: 33.33%;
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
     .menuicon {
         display: none;
     }
